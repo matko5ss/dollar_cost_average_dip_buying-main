@@ -1,0 +1,7 @@
+*.swp
+*.swo
+__pycache__
+*.json
+*.txt
+Performance_jaimin.ipynb
+.ipynb_checkpoints
