@@ -403,7 +403,8 @@ class DCA:
 
 
 	"""
-	Thread asking user for their inputs to interact with the system
+
+	Thread asking user for their inputs to interact with the systemm
 	"""
 	def input_thread(self):
 		t = threading.Thread(target=self.manage_dcas)
