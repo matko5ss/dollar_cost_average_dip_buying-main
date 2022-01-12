@@ -8,7 +8,8 @@ Dollar Cost Averaging - DCA: Dividing a sum of money to invest periodically, red
 
 This repo lets you run and backtest DCA strategies for crypto to minimise risk and maximise profits, allowing for user customisation with respect to frequency of purchasing, use of indicators and aggression or weighting
 
-### Setup instructionss
+### Setup instructions
+
 
 
 1. To get started you will need an exchange account from Binance/FTX/Kraken (Fee reducing referral links below):
