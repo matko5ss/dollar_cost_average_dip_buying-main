@@ -372,7 +372,7 @@ class DCA:
 			frequency *= 60
 
 		# Choose a starting time for the dca
-		self.current_prompt = '\nTime to start the buy    (00:01 UTC recommended for fear and greed)\nPut in your local time in 24H format e.g. 19:00 or leave blank for start now\n\n'
+		self.current_prompt = '\nTime to start the buy  (00:01 UTC recommended for fear and greed)\nPut in your local time in 24H format e.g. 19:00 or leave blank for start now\n\n'
 		while 1:
 			start_time = input(self.current_prompt)
 			if start_time:
