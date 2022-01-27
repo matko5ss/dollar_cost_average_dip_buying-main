@@ -274,7 +274,7 @@ class DCA:
 		stat_str = ''
 		print('\n\n%s DCA Summary %s\n\nNumber of DCAs running: %d\n' % ('-'*20,'-'*20,len(self.previous_buys)))
 
-		# Loop over the previous trades and calculate the average dca buys
+		# Loop over the previous trades and calculate the average dca  buys
 		for coin in self.previous_buys:
 
 			stat_str += coin
